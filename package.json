@@ -1,0 +1,22 @@
+{
+  "name": "react-native-cppay",
+  "version": "1.0.0",
+  "description": "Custom Module",
+  "main": "index.js",
+  "author": "ZMX",
+  "license": "MIT",
+  "scripts": {
+    "test": "cppay"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZengMX/react-native-cppay.git"
+  },
+  "keywords": [
+    "cppay"
+  ],
+  "bugs": {
+    "url": "https://github.com/ZengMX/react-native-cppay/issues"
+  },
+  "homepage": "https://github.com/ZengMX/react-native-cppay#readme"
+}
