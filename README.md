@@ -27,7 +27,7 @@ CPPay.startPay({
         CommodityMsg : "",
         CurryNo : 'CNY',
         InstuId : "",
-        MerBgUrl : "http://10.118.130.35:9080/CPOA_TEST/pages/STDAS/pebResponse.jsp",
+        MerBgUrl : "http://xxx:9080/CPOA_TEST/pages/STDAS/pebResponse.jsp",
         MerId : '000000000000001',
         MerOrderNo : dateStr+timeStr,
         MerPageUrl : "",
