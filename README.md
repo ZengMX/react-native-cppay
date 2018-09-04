@@ -35,7 +35,7 @@ CPPay.startPay({
         MerSplitMsg : "",
         OrderAmt : '000000000008',
         PayTimeOut : "",
-        RemoteAddr : "192.168.56.101",
+        RemoteAddr : "192.168.x.x",
         RiskData : "",
         Signature : "",
         SplitMethod : "",
